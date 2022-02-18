@@ -1,0 +1,16 @@
+E:\TagChecker\bin\Debug\TagChecker.exe.config
+E:\TagChecker\bin\Debug\TagChecker.exe
+E:\TagChecker\bin\Debug\TagChecker.pdb
+E:\TagChecker\obj\Debug\TagChecker.csproj.AssemblyReference.cache
+E:\TagChecker\obj\Debug\TagChecker.csproj.CoreCompileInputs.cache
+E:\TagChecker\obj\Debug\TagChecker.exe
+E:\TagChecker\obj\Debug\TagChecker.pdb
+E:\bitfountain\TagChecker\bin\Debug\TagChecker.exe.config
+E:\bitfountain\TagChecker\obj\Debug\TagChecker.exe
+E:\bitfountain\TagChecker\obj\Debug\TagChecker.pdb
+E:\bitfountain\TagChecker\bin\Debug\TagChecker.exe
+E:\bitfountain\TagChecker\bin\Debug\TagChecker.pdb
+E:\bitfountain\TagChecker\obj\Debug\TagChecker.csprojResolveAssemblyReference.cache
+E:\bitfountain\TagChecker(Section_1_Question_1)\bin\Debug\TagChecker.exe.config
+E:\bitfountain\TagChecker(Section_1_Question_1)\obj\Debug\TagChecker.exe
+E:\bitfountain\TagChecker(Section_1_Question_1)\obj\Debug\TagChecker.pdb

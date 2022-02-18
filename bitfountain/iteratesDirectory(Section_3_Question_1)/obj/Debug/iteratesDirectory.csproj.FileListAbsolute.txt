@@ -1,0 +1,7 @@
+E:\iteratesDirectory\bin\Debug\iteratesDirectory.exe.config
+E:\iteratesDirectory\bin\Debug\iteratesDirectory.exe
+E:\iteratesDirectory\bin\Debug\iteratesDirectory.pdb
+E:\iteratesDirectory\obj\Debug\iteratesDirectory.csproj.AssemblyReference.cache
+E:\iteratesDirectory\obj\Debug\iteratesDirectory.csproj.CoreCompileInputs.cache
+E:\iteratesDirectory\obj\Debug\iteratesDirectory.exe
+E:\iteratesDirectory\obj\Debug\iteratesDirectory.pdb
